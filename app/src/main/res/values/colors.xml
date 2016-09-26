@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#448AFF</color>
+    <color name="colorPrimaryDark">#1A237E</color>
+    <color name="colorAccent">#FFF176</color>
+    <color name="bright_pink">#E1F5FE</color>
+    <color name="red">#B2EBF2</color>
+    <color name="orange">#E0F2F1</color>
+    <color name="yellow">#A7FFEB</color>
+    <color name="chartreuse">#FFCC80</color>
+    <color name="green">#FFE57F</color>
+    <color name="spring_green">#CCFF90</color>
+    <color name="cyan">#FFF176</color>
+    <color name="azure">#D7CCC8</color>
+    <color name="blue">#E0E0E0</color>
+    <color name="violet">#FF9E80</color>
+    <color name="magenta">#00ACC1</color>
+    <color name="white">#ffffff</color>
+
+
+    <color name="more_crime1">#ff0000</color>
+    <color name="more_crime2">#eb3600</color>
+    <color name="more_crime3">#e54800</color>
+    <color name="more_crime4">#d86d00</color>
+    <color name="more_crime5">#d27f00</color>
+    <color name="more_crime6">#c5a300</color>
+    <color name="more_crime7">#b9c800</color>
+    <color name="common_color">#a6ff00</color>
+
+</resources>
